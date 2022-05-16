@@ -4,8 +4,6 @@
 *Takeaways: Today, you will learn the basics of solving both trivial and more challenging business tasks using basic Java language constructs.*
 
 # Contents
-1. [Chapter I](#chapter-i) \
-	1.1. [Preamble](#preamble)
 2. [Chapter II](#chapter-ii) \
 	2.1. [General Rules](#general-rules)
 3. [Chapter III](#chapter-iii) \
@@ -22,13 +20,6 @@
 	8.1. [Exercise 04 – A Bit More of Statistics](#exercise-04-a-bit-more-of-statistics)
 9. [Chapter IX](#chapter-ix) \
 	9.1. [Exercise 05 – Schedule](#exercise-05-schedule)
-
-
-# Chapter I 
-### Preamble
-
-![java-man](misc/images/java-man.png)<br>
-Java Man, or *Homo erectus erectus*
 
 # Chapter II
 ### General Rules
@@ -290,7 +281,3 @@ Therefore, application's life cycle is as follows:
 4. Displaying the timetable in tabular form with attendance statuses.
 
 Each application operation stage is divided by "." (period). Absolute correctness of data is guaranteed, except for sequential ordering of classes when populating the timetable.
-
-Example of program operation:
-
-![program](misc/images/program.png)
